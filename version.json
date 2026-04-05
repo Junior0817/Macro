@@ -2,11 +2,11 @@
   "versions": [
     {
       "name": "1.0",
-      "url": "https://raw.githubusercontent.com/Junior0817/launcher-files/main/main_1.0.exe"
+      "url": "https://github.com/Junior0817/Macro/releases/download/v1.0/main_1.0.zip"
     },
     {
       "name": "1.1",
-      "url": "https://raw.githubusercontent.com/Junior0817/launcher-files/main/main_1.1.exe"
+      "url": "https://github.com/Junior0817/Macro/releases/download/v1.1/main_1.1.zip"
     }
   ]
 }
